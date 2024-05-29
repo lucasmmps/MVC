@@ -17,7 +17,7 @@ public class ClienteController {
 
     public ClienteController() {
         clientes.add(new Cliente("111.111.111-11","Lucas","(13) 99999-9999","lucas@email.com", 100.00f));
-        clientes.add(new Cliente("222.222.222-22","Caique","(13) 99999-9999","caique@email.com", 99999.99f));
+        clientes.add(new Cliente("222.222.222-22","Caique","(13) 98888-8888","caique@email.com", 99999.99f));
     }
 
     @GetMapping
